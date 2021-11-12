@@ -13,7 +13,7 @@ import java.util.List;
 @Getter
 @Setter
 public class Video implements Serializable {
-	private String a ="测试";
+
     private int id;
     private String title;
     private String summary;
